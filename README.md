@@ -1,2 +1,2 @@
 # BLOG-practice-
-Making a blog website
+made a blog website
